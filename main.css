@@ -1,0 +1,58 @@
+#BLUE {
+  color: rgb(67, 77, 121);
+}
+
+
+
+body {
+  background-color: #9eb6eb;
+  color: rgb(107, 127, 182);
+  font-family: "DynaPuff";
+  padding: 20px;
+  line-height: 2;
+  word-spacing: 25%;
+}
+
+img {
+    border-radius: 6px;
+    max-width: 100%;
+    margin-bottom: 20px;
+}
+
+h2 {
+    margin-bottom: 20px;
+}
+
+#space {
+    margin-bottom: 55px;
+}
+
+#signoff {
+    font-size: 0.75em;
+}
+
+#smol {
+    margin-top: 2px;
+    margin-bottom: 10px;
+    font-size: 0.70em;
+}
+
+#plsbesmol {
+    margin-bottom: 3px;
+}
+
+button {
+    color: rgb(165, 196, 253);
+    background-color: rgb(116, 144, 204);
+    border-radius: 10px;
+    border-width: 2;
+    border-color: aliceblue;
+    padding: 18px;
+    margin-top: 2px;
+    margin-bottom: 14px;
+}
+
+button:hover {
+    color: #505d7a;
+    border-color: rgb(114, 122, 155);
+}
